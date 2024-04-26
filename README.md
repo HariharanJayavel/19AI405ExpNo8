@@ -103,7 +103,7 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
-```
+``
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
 MORE = 1085<br>
@@ -112,7 +112,7 @@ MONEY = 10652<br>
 <hr>
     
 ## OUTPUT
-<img width="1000" alt="csp output"https://github.com/HariharanJayavel/19AI405ExpNo8/assets/144870546/15935c17-a2de-41aa-a7f4-179230e09830">
+<img width="1000" alt="csp output" src="https://github.com/HariharanJayavel/19AI405ExpNo8/assets/144870546/15935c17-a2de-41aa-a7f4-179230e09830">
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
